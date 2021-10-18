@@ -64,6 +64,11 @@
     transform: rotate(-70deg);
 }
 
+.logo__text {
+    font-size: 10em;
+    color: #e9c242;
+}
+
 
 /*--------------------------------------------------------------*/
 
@@ -92,6 +97,9 @@
 }
 
 @media (max-width:767px) {
+    .header__logo {
+        font-size: 6px;
+    }
     /*----БУРГЕР-------*/
     .header__container {
         display: flex;
