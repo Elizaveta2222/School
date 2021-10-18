@@ -6,8 +6,7 @@
 
 .box {
     position: relative;
-    margin-top: 10%;
-    margin-left: 10%;
+    margin: auto;
     width: 200px;
     height: 200px;
 }
